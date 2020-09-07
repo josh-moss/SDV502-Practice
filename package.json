@@ -1,0 +1,20 @@
+{
+  "name": "SDV502-Practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josh-moss/SDV502-Practice.git"
+  },
+  "keywords": [],
+  "author": "Josh Moss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josh-moss/SDV502-Practice/issues"
+  },
+  "homepage": "https://github.com/josh-moss/SDV502-Practice#readme"
+}
